@@ -1,3 +1,29 @@
-body {
-
+body{
+  background-color: blue;
+}
+ul{
+  list-style-type:none;
+  width: 100%;
+  position: fixed;
+}
+li{
+  float: center;
+  text-decoration-line:none;
+}
+li a: hover{
+  color:black;
+  padding: 30px
+}
+h1{
+ text-decoration-line:underline; 
+ letter-spacing: 2px;
+}
+p{
+  font-size:200%;
+  
+}
+img{
+  width:80%;
+  border:dashed
+  
 }
